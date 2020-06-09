@@ -26,6 +26,12 @@ body {
     width: 160px;
 }
 
+.img-sheff {
+    width: 110%;
+    height: 500px;
+    float: left;
+}
+
 /*------------------------------Footer---------------------------*/
 
 footer {
