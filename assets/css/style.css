@@ -21,21 +21,22 @@ body {
     font-weight: lighter;
 }
 
-.navbar img {
-    height: 100px;
-    width: 160px;
-}
 
 /*------------------------------About section---------------------------*/
 
 .about {
     padding-top: 20px;
+    text-align: justify;
 }
 
 .img-sheff {
     width: 100%;
     height: 300px;;
     float: left;
+}
+
+.welcome p {
+    text-align: justify;
 }
 
 /*------------------------------Footer---------------------------*/
@@ -46,12 +47,10 @@ footer {
     font-size: 16px;
 }
 
-footer p {
-    display: inline;
-}
 
-footer a i {
-    display: inline;
+
+.footer-links a i {
+        display: inline;
     letter-spacing: 40px;
     text-align: center;
 }
