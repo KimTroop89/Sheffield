@@ -44,13 +44,24 @@ body {
 footer {
     background-color: #83848a;
     color: #f0efe5;
-    font-size: 16px;
 }
 
-
-
 .footer-links a i {
-        display: inline;
-    letter-spacing: 40px;
+    display: inline;
     text-align: center;
+    padding-left: 50px;
+    font-size: 24px;
+    color: white;
+}
+
+.footer-links a {
+    text-decoration: none;
+}
+
+.footer-links li {
+    padding-top: 40px;
+}
+
+.footer-links p {
+    font-size: 20px;
 }
