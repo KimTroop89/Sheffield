@@ -43,6 +43,43 @@ body {
 
 div #map {
     min-height: 360px;
+    padding-top: 40px;
+}
+
+.top-5 {
+    padding-top: 40px;
+}
+
+.bars {
+    padding-bottom: 40px;
+}
+
+.activity-header {
+    text-align: center;
+    background-color: #dcbdbf;
+    height: 40px;
+}
+
+.restaurant-header {
+    text-align: center; 
+    background-color: #bdc4dc;
+    height: 40px;
+}
+
+.bars-header {
+    text-align: center; 
+    background-color: #bdd8dc;
+    height: 40px;
+}
+
+.culture-header {
+    text-align: center; 
+    background-color: #d9dcbd;
+    height: 40px;
+}
+
+#first {
+    padding-top: 20px;
 }
 
 /*------------------------------Footer---------------------------*/
