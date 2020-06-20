@@ -46,18 +46,38 @@ div #map {
     padding-top: 40px;
 }
 
-.top-5 {
+.shopping {
     padding-top: 40px;
+    padding-bottom: 20px;
 }
 
-.bars {
-    padding-bottom: 40px;
-}
-
-.activity-header {
+.shopping-header {
     text-align: center;
     background-color: #dcbdbf;
     height: 40px;
+}
+
+.to-do {
+    border: solid 2px #83848a;
+    margin-top: 20px;
+}
+
+.to-do h4 {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.to-do p {
+    padding: 10px;
+}
+
+.website {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+.website a {
+    text-decoration: none;
 }
 
 .restaurant-header {
@@ -80,6 +100,10 @@ div #map {
 
 #first {
     padding-top: 20px;
+}
+
+.culture {
+    padding-bottom: 40px;
 }
 
 /*------------------------------Footer---------------------------*/
