@@ -39,12 +39,14 @@ body {
     text-align: justify;
 }
 
-/*------------------------------About section---------------------------*/
+/*------------------------------Map---------------------------*/
 
 div #map {
     min-height: 360px;
     padding-top: 40px;
 }
+
+/*------------------------------Things to do---------------------------*/
 
 .shopping {
     padding-top: 40px;
@@ -60,6 +62,7 @@ div #map {
 .to-do {
     border: solid 2px #83848a;
     margin-top: 20px;
+    height: 250px;
 }
 
 .to-do h4 {
@@ -69,6 +72,7 @@ div #map {
 
 .to-do p {
     padding: 10px;
+    font-size: 14px;
 }
 
 .website {
