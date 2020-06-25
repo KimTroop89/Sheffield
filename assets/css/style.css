@@ -48,8 +48,13 @@ div #map {
 
 /*------------------------------Things to do---------------------------*/
 
-.shopping {
+.to-do-header {
+    text-align: center;
     padding-top: 40px;
+}
+
+.shopping {
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
@@ -59,10 +64,18 @@ div #map {
     height: 40px;
 }
 
+.down-arrow {
+    display: inline-block;
+}
+
+.up-arrow {
+    text-align: center;
+}
+
 .to-do {
     border: solid 2px #83848a;
     margin-top: 20px;
-    height: 250px;
+    height: 230px;
 }
 
 .to-do h4 {
@@ -89,7 +102,7 @@ div #map {
 }
 
 .restaurant {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
@@ -100,7 +113,7 @@ div #map {
 }
 
 .bars {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 20px;
 }
 
@@ -111,7 +124,7 @@ div #map {
 }
 
 .culture {
-    padding-top: 30px;
+    padding-top: 20px;
     padding-bottom: 40px;
 }
 
