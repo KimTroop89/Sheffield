@@ -4,11 +4,11 @@ $(document).ready(function(){
         $(".to-do").hide();
     });
 
-    $(".shopping-header").click(function(){
+    $(".down-arrow").click(function(){
         $(".to-do").show();
     });
 
-    $(".").click(function(){
+    $(".up-arrow").click(function(){
         $(".to-do").hide();
     });
 
